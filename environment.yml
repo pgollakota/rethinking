@@ -1,0 +1,82 @@
+name: rethinking
+channels:
+- defaults
+dependencies:
+- appnope=0.1.0=py36hf537a9a_0
+- ca-certificates=2017.08.26=ha1e5d58_0
+- cctools=895=h7512d6f_0
+- certifi=2017.11.5=py36ha569be9_0
+- clang=4.0.1=h662ec87_0
+- clang_osx-64=4.0.1=h1ce6c1d_7
+- clangxx=4.0.1=hc9b4283_0
+- clangxx_osx-64=4.0.1=7
+- compiler-rt=4.0.1=h5487866_0
+- cycler=0.10.0=py36hfc81398_0
+- decorator=4.1.2=py36h69a1b52_0
+- freetype=2.8=h12048fb_1
+- h5py=2.7.1=py36h39cdac5_0
+- hdf5=1.10.1=ha036c08_1
+- intel-openmp=2018.0.0=h8158457_8
+- ipykernel=4.7.0=py36h2f9c1c0_0
+- ipython=6.2.1=py36h3dda519_1
+- ipython_genutils=0.2.0=py36h241746c_0
+- jedi=0.11.0=py36_2
+- joblib=0.11=py36_0
+- jupyter_client=5.1.0=py36hf6c435f_0
+- jupyter_core=4.4.0=py36h79cf704_0
+- ld64=274.2=h7c2db76_0
+- libcxx=4.0.1=h579ed51_0
+- libcxxabi=4.0.1=hebd6815_0
+- libedit=3.1=hb4e282d_0
+- libffi=3.2.1=h475c297_4
+- libgfortran=3.0.1=h93005f0_2
+- libpng=1.6.32=hd1e8b91_4
+- libsodium=1.0.15=hd9e47c5_0
+- llvm=4.0.1=hc748206_0
+- llvm-lto-tapi=4.0.1=h6701bc3_0
+- matplotlib=2.1.1=py36h2fb3e9e_0
+- mkl=2018.0.1=hfbd8650_4
+- mkl-service=1.1.2=py36h7ea6df4_4
+- ncurses=6.0=hd04f020_2
+- numpy=1.13.3=py36h2cdce51_0
+- openssl=1.0.2n=hdbc3d79_0
+- pandas=0.22.0=py36h0a44026_0
+- parso=0.1.1=py36hc90e01c_0
+- patsy=0.4.1=py36ha1b3fa5_0
+- pexpect=4.3.0=py36h427ab81_0
+- pickleshare=0.7.4=py36hf512f8e_0
+- pip=9.0.1=py36h1555ced_4
+- prompt_toolkit=1.0.15=py36haeda067_0
+- ptyprocess=0.5.2=py36he6521c3_0
+- pygments=2.2.0=py36h240cd3f_0
+- pymc3=3.2=py36h1e7238b_0
+- pyparsing=2.2.0=py36hb281f35_0
+- python=3.6.4=hc167b69_0
+- python-dateutil=2.6.1=py36h86d2abb_1
+- pytz=2017.3=py36hf0bf824_0
+- pyzmq=16.0.3=py36he48b5ad_0
+- readline=7.0=hc1231fa_4
+- scipy=1.0.0=py36h1de22e9_0
+- seaborn=0.8.1=py36h595ecd9_0
+- setuptools=36.5.0=py36h2134326_0
+- simplegeneric=0.8.1=py36he5b5b09_0
+- six=1.11.0=py36h0e22d5e_1
+- sqlite=3.20.1=h7e4c145_2
+- statsmodels=0.8.0=py36h9c68fc9_0
+- theano=1.0.1=py36h04f5b5a_0
+- tk=8.6.7=h35a86e2_3
+- tornado=4.5.2=py36h468dda9_0
+- tqdm=4.19.4=py36he502594_0
+- traitlets=4.3.2=py36h65bd3ce_0
+- wcwidth=0.1.7=py36h8c6ec74_0
+- wheel=0.30.0=py36h5eb2c71_1
+- xz=5.2.3=h0278029_2
+- zeromq=4.2.2=ha360ad0_2
+- zlib=1.2.11=hf3cbc9b_2
+- pip:
+  - ipython-genutils==0.2.0
+  - jupyter-client==5.1.0
+  - jupyter-core==4.4.0
+  - prompt-toolkit==1.0.15
+prefix: //anaconda/envs/rethinking
+
